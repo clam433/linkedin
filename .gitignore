@@ -1,0 +1,19 @@
+# Python
+server/venv/
+server/__pycache__/
+server/*.pyc
+server/.env
+
+# Node
+client/node_modules/
+client/dist/
+client/.env.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Misc
+*.log
